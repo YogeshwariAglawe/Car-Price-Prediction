@@ -67,6 +67,3 @@ The Random Forest Regressor achieved the best performance with:
 - `Car_Price_Prediction.ipynb` — Jupyter Notebook containing the complete project.
 - `Car_Price_Prediction.html` — HTML version of the notebook.
 
-## Conclusion
-
-The project demonstrates how machine learning regression techniques can be used to predict used car prices based on vehicle characteristics. Among the evaluated models, the Random Forest Regressor provided the best predictive performance.
